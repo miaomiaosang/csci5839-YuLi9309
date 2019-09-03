@@ -1,7 +1,7 @@
 ## Welcome to Yu Li's CSCI5839 class blog!
 
-========================================
-#Reading Assignment 1: IDEO & deep dive
+
+Reading Assignment 1: IDEO & deep dive
 ========================================
 
 1.This video is about 20 years old! Which ideas from this work show up in today's shopping carts? Which ideas did not make it, and why didn't they?
