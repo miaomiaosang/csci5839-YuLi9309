@@ -1,11 +1,12 @@
 ## Welcome to Yu Li's CSCI5839 class blog!
 
 <p align="center">
-	<img src="https://github.com/miaomiaosang/csci5839-YuLi9309/blob/master/picture/YuLi.jpeg"  width="216" height="288">
+	<img src="/picture/YuLi.jpeg"  width="216" height="288">
 	<p align="center">
 		<em>Yu Li on ice (in CU Boulder ice rink)</em>
 	</p>
 </p>
+
 
 
 
