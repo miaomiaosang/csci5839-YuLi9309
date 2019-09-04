@@ -15,7 +15,7 @@
 3. buttons light up
 4. pairing nearby device to merge its function to other devices such as ipone.
 
-> Designed by Ling Liu and pictured by Yu Li
+> Designed by Ling Liu and picture by Yu Li
 
 ![image](/csci5839-YuLi9309/picture/appleTVremoteAvacado.jpg)
 
