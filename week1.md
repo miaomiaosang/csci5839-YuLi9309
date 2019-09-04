@@ -1,7 +1,7 @@
 [Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
 
 ## Something frustrating to use and something pleasing to use
-1. pleasing to use: Notability in ipad,
+#### pleasing to use: Notability in ipad,
 
   - replaces my pens and notebooks
   
@@ -9,7 +9,7 @@
   
   - can easily serch for something that I wrote by hand for this app recognizes hand writting
   
-2. frustrating to use: washing machine
+#### frustrating to use: washing machine
 
   - it shakes heavily when spin to dry and make the whole wooden structure building shaking. Why doesn't choose a gentle way to dry cloth such as by blowing hot wind and spin gentlely?
 
