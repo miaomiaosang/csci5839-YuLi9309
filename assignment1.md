@@ -1,6 +1,8 @@
 Reading Assignment 1: IDEO & deep dive
 ========================================
 
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
+
 **1.This video is about 20 years old! Which ideas from this work show up in today's shopping carts? Which ideas did not make it, and why didn't they?**
 
 Ideas from this work that show up in today's shopping cart:
@@ -24,3 +26,5 @@ Reason: not actually safe because babies can still fall off the cart when parent
 **2.Who did the design team talk to? For each group of stakeholders that the designers talked to, explain why it was important to talk to them.**
 
 The design team talked to the stuff of supermarkets and customers because they are the two groups of stakeholders that actually uses these shopping carts. Firstly, the ultimate goal of improving the design of shoping cart is to increase the working efficiency of stuff and shoping experience of customers, which can bring more profit to the supermarket. Secondly, the design team should not increase the costs of shopiing carts, such as cost to build the carts and maintaining the carts.
+
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
