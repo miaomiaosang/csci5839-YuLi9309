@@ -1,3 +1,5 @@
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
+
 # Discussion around how people hate Apple TV remote and how the design of Apple TV remote can be improved
 
 ### Defects of Apple TV remote that people hate:
@@ -14,8 +16,10 @@
 4. pairing nearby device to merge its function to other devices such as ipone.
 
 Designed by Ling Liu and pictured by Yu Li
-![image](https://github.com/miaomiaosang/csci5839-YuLi9309/blob/master/picture/appleTVremoteAvacado.jpg)
+![image](/csci5839-YuLi9309/picture/YuLi.jpeg)
 ## Worked with: Ling Liu
+
+[Back to my homepage](/csci5839-YuLi9309/blob/master/picture/appleTVremoteAvacado.jpg)
 
 
 
