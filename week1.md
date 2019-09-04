@@ -17,11 +17,11 @@
 
 Designed by Ling Liu and pictured by Yu Li
 
-![image](/csci5839-YuLi9309/picture/YuLi.jpeg)
+![image](/csci5839-YuLi9309/picture/appleTVremoteAvacado.jpg)
 
 ## Worked with: Ling Liu
 
-[Back to my homepage](/csci5839-YuLi9309/blob/master/picture/appleTVremoteAvacado.jpg)
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
 
 
 
