@@ -1,4 +1,6 @@
-#Personas in interaction design
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
+
+# Personas in interaction design
 
 This chapter talks about the concept of personas in interaction design, including the reasons to set up personas and how to set up personas. This chapter also gives a case of professionals doing interaction design using personas.
 
@@ -25,3 +27,5 @@ These four personas helped us when we attempted to draw out some prototypes of o
 The alert shows automatically when need but the watch stays how a normal watch looks because our primary persona has never used smart device before. We don’t want to make something that force her to learn in her age. 
 
 ![image](/csci5839-YuLi9309/picture/assignment2.png)
+
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
