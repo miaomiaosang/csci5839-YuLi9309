@@ -18,6 +18,11 @@
 
 > like design and ice skating
 
+
+[Reading Assignment2: Personas](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment2)
+
+[class summary in week2 (Sep 2 2019-Aug 8 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week2)
+
 [Reading/Video Assignment1: IDEO & dive deep](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment1)
 
 [class summary in week1 (Aug 28 2019-Sep 1 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week1)
