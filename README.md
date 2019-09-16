@@ -18,7 +18,7 @@
 
 > like design and ice skating
 
-[Reading Assignment3: Personas](https://miaomiaosang.github.io/csci5839-YuLi9309/readingassignment3)
+[Reading Assignment3: Probe](https://miaomiaosang.github.io/csci5839-YuLi9309/readingassignment3)
 
 [class summary in week3](https://miaomiaosang.github.io/csci5839-YuLi9309/week3)
 
