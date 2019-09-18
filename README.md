@@ -18,6 +18,8 @@
 
 > like design and ice skating
 
+[class summary in week4](https://miaomiaosang.github.io/csci5839-YuLi9309/week4)
+
 [Reading Assignment3: Probe](https://miaomiaosang.github.io/csci5839-YuLi9309/readingassignment3)
 
 [class summary in week3](https://miaomiaosang.github.io/csci5839-YuLi9309/week3)
