@@ -1,3 +1,5 @@
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
+
 > In the Shadow of Misperception: Assistive Technology Use and Social Interactions
 
 This paper mainly talks about what features that people with disabilities really want for technology. What I want to share from this passage is the viewpoints that people with disabilities made about technology, how to do interview to gather the ideas that people have for a certain topic as well as how to analysis the interview result.
@@ -15,3 +17,5 @@ This paper pictures and analyzes the experience of people with disabilities usin
 As a result, the authors find that even though there are specially-designed mobile devices for disabilities, the disabilities may not be willing to buy because they are expensive to afford. Instead, the participants developed special skills to adept to common devices on market, such as using lap to hold the phone, change the text font and size setting and etc.  
 
 I believe that making disabilities to adapt to mobile devices with a lot of effort is not appropriate. There are a lot of people with disabilities, even old people can have difficulties using mobile devices. They also pay for the phones. The phones should be designed to adept their needs.  Maybe more functions and features should be designed for them on the software side so that the overall cost of mobile device won’t be increased too much and healthy people won’t be interrupted by the functions designed for disabilities.
+
+[Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
