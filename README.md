@@ -18,7 +18,7 @@
 
 > like design and ice skating
 
-[Reading Assignment4: Design for disabilities](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment4)
+[Reading Assignment4: Interviews](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment4)
 
 [class summary in week4](https://miaomiaosang.github.io/csci5839-YuLi9309/week4)
 
