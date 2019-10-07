@@ -18,6 +18,8 @@
 
 > like design and ice skating
 
+[Reading Assignment6: Prototyping](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment6)
+
 [Reading Assignment5: Sketching](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment5)
 
 [Reading Assignment4: Interviews](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment4)
