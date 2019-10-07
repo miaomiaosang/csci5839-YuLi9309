@@ -1,4 +1,7 @@
-Sep 4 Wed
+### Sep 4 Wed
+
+# Discussions about deep dive:
+
 king sooper uses portable scan device for customers to check out by themselves.
 
 king sooper employer use large shopping cart to collect online order.
@@ -14,6 +17,6 @@ talky walky
 cost to replace
 
 
-office：open office area for people to communicate and people can still create a small private space quickly when they need
+office：open office area for people to communicate and people can still create a small private space quickly when they need.
 
 
