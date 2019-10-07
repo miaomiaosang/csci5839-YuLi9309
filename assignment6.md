@@ -14,6 +14,6 @@ What inspires me most in this article is that we should make the prototype inter
 
 # interact with Apple remote to program
 
-![image](/csci5839-YuLi9309/picture/interactAppRemote.jpg)
+![image](/csci5839-YuLi9309/picture/interactAppRemote.jpeg)
 
 [Back to my homepage](https://miaomiaosang.github.io/csci5839-YuLi9309/)
