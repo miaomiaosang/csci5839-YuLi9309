@@ -17,6 +17,7 @@
 > twitter @mms_2018
 
 > like design and ice skating
+
 [Reading Assignment7: Usability](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment7)
 
 [Reading Assignment6: Prototyping](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment6)
