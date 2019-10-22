@@ -18,6 +18,8 @@
 
 > like design and ice skating
 
+[Reading Assignment8: Visual Design](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment8)
+
 [Reading Assignment7: Usability](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment7)
 
 [Reading Assignment6: Prototyping](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment6)
