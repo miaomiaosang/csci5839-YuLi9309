@@ -18,6 +18,8 @@
 
 > like design and ice skating
 
+[class summary](https://miaomiaosang.github.io/csci5839-YuLi9309/week9)(10/23) Usability heuristics for email inbox
+
 [Reading Assignment8: Visual Design](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment8)
 
 [Reading Assignment7: Usability](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment7)
@@ -25,6 +27,8 @@
 [Reading Assignment6: Prototyping](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment6)
 
 [Reading Assignment5: Sketching](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment5)
+
+[class summary in week5](https://miaomiaosang.github.io/csci5839-YuLi9309/week5) Design a culture probe related to your project/ interview partner
 
 [Reading Assignment4: Interviews](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment4)
 
