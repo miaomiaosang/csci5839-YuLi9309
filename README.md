@@ -28,18 +28,18 @@
 
 [Reading Assignment4: Interviews](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment4)
 
-[class summary in week4](https://miaomiaosang.github.io/csci5839-YuLi9309/week4)
+[class summary in week4](https://miaomiaosang.github.io/csci5839-YuLi9309/week4) Come up with 3 personas for Google Cardboard VR headset
 
 [Reading Assignment3: Probe](https://miaomiaosang.github.io/csci5839-YuLi9309/readingassignment3)
 
-[class summary in week3](https://miaomiaosang.github.io/csci5839-YuLi9309/week3)
+[class summary in week3](https://miaomiaosang.github.io/csci5839-YuLi9309/week3) Comments on Users and Tasks reading
 
 [Reading Assignment2: Personas](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment2)
 
-[class summary in week2 (Sep 2 2019-Aug 8 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week2)
+[class summary in week2 (Sep 2 2019-Aug 8 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week2)  Comments on the Deep Dive
 
 [Reading/Video Assignment1: IDEO & dive deep](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment1)
 
-[class summary in week1 (Aug 28 2019-Sep 1 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week1)
+[class summary in week1 (Aug 28 2019-Sep 1 2019)](https://miaomiaosang.github.io/csci5839-YuLi9309/week1)  Discussion of objects that are frustrating to use and objects that are pleasing to use /Designing solutions to the Apple TV remote
 
 
