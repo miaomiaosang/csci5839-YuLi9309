@@ -22,7 +22,7 @@
 
 [Reading Assignment8: Visual Design](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment8)
 
-[(10/7 & 10/9) Paper prototypes for study buddy app]()
+[(10/7 & 10/9) Paper prototypes for study buddy app](https://miaomiaosang.github.io/csci5839-YuLi9309/studybudduy)
 
 [Reading Assignment7: Usability](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment7)
 
