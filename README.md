@@ -22,9 +22,15 @@
 
 [Reading Assignment8: Visual Design](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment8)
 
+[(10/7 & 10/9) Paper prototypes for study buddy app]()
+
 [Reading Assignment7: Usability](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment7)
 
+[(10/2) 6-panel storyboard to illustrate use of your project](https://miaomiaosang.github.io/csci5839-YuLi9309/storytell)
+
 [Reading Assignment6: Prototyping](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment6)
+
+[Sketch location sharing for a meetup app & Sketch a coding UI for Apple TV](https://miaomiaosang.github.io/csci5839-YuLi9309/locationshare)
 
 [Reading Assignment5: Sketching](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment5)
 
