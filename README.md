@@ -18,6 +18,10 @@
 
 > like design and ice skating
 
+[class summary](https://miaomiaosang.github.io/csci5839-YuLi9309/KLM.md)(11/13) KLM model
+
+[class summary](https://miaomiaosang.github.io/csci5839-YuLi9309/designGesture.md)(11/6) Design gesture
+
 [class summary](https://miaomiaosang.github.io/csci5839-YuLi9309/week9)(10/23) Usability heuristics for email inbox
 
 [Reading Assignment8: Visual Design](https://miaomiaosang.github.io/csci5839-YuLi9309/assignment8)
